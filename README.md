@@ -5,4 +5,4 @@ This is the module 5 final project from IBM Data Science Certificate. In this sc
 - MySQL
 - Pandas
 - Magic Cells
-- 
+
